@@ -1,0 +1,50 @@
+/* Add this CSS to your existing CSS file or create a new CSS file for Register component */
+
+.error-message {
+    color: red;
+    margin-top: 2px;
+  }
+
+  /* Add this CSS to your existing CSS file or create a new CSS file */
+
+.login-button,
+.link-btn {
+  background-color: #5825d8;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  margin-top: 10px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.login-button:hover,
+.link-btn:hover {
+  background-color: #5bbfd1;
+}
+.Register-button,
+.link-btn{
+    background-color: #5825d8;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-top: 10px;
+    cursor: pointer;
+    text-decoration: none;
+}
+/* Add this CSS to your existing CSS file or create a new CSS file */
+
+.register-button {
+    border-radius: 30px; 
+    padding: 20px 20px; 
+    background-color: white; 
+    color: #000000; 
+    border: none; 
+    cursor: pointer; 
+  }
+  
+  .register-button:hover {
+    background-color: #00adb3; 
+  }

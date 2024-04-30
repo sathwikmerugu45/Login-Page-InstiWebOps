@@ -1,0 +1,15 @@
+/* App.css */
+
+.login-form button {
+    border-radius: 20px; /* Adjust the value as needed */
+    padding: 10px 20px; /* Adjust padding for better appearance */
+    background-color: #007bff; /* Change background color */
+    color: #fff; /* Change text color */
+    border: none; /* Remove border */
+    cursor: pointer; /* Add cursor pointer on hover */
+  }
+  
+  .login-form button:hover {
+    background-color: #0056b3; /* Change background color on hover */
+  }
+  
